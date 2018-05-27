@@ -1,11 +1,7 @@
 {
-<<<<<<< HEAD
     "name": "kouosl/trouble",
     "description": "Yii2 KouOsl trouble Module Integration",
-=======
-    "name": "kouosl/portal-sample",
-    "description": "Sample module for KOUOSL PORTAL",
->>>>>>> 450db748a6c6de6dce6c52c43b0c422b9f4fdd5c
+
     "type": "yii2-extension",
     "keywords": ["yii2", "yii 2", "troubles", "trouble", "module", "modules"],
     "license": "BSD-3-Clause",
